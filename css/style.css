@@ -487,3 +487,6 @@ textarea:focus {
     text-decoration: none;
     color: #544837;
 }
+.footer-link:hover {
+    color: #FF9900;
+}
